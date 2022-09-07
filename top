@@ -1,0 +1,62 @@
+[33mcommit 20804c02ceff0a0675eedccaa1a418fd6fe75684[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: eb3d666 f4348c9
+Author: MIHRAS <sparrowtech321@gmail.com>
+Date:   Wed Sep 7 13:03:49 2022 +0530
+
+    Conflict Fixed
+
+[33mcommit eb3d66677c9be31551723012a563e24a6d465d88[m
+Author: MIHRAS <sparrowtech321@gmail.com>
+Date:   Wed Sep 7 13:00:13 2022 +0530
+
+    negative answer added
+
+[33mcommit f4348c98315d783669161902642c3035ff348130[m[33m ([m[1;31morigin/feature[m[33m)[m
+Author: MIHRAS <sparrowtech321@gmail.com>
+Date:   Wed Sep 7 12:51:52 2022 +0530
+
+    positive answer added
+
+[33mcommit 88039e408cc78afded3d075010a584c5f0f4cc8c[m
+Merge: 05e5116 5b5ce29
+Author: MIHRAS <sparrowtech321@gmail.com>
+Date:   Wed Sep 7 12:40:45 2022 +0530
+
+    Merge branch 'feature'
+    seperate branches merged
+
+[33mcommit 5b5ce2965d0584f3b21fc5b9ca3851cda9f34d73[m
+Author: MIHRAS <sparrowtech321@gmail.com>
+Date:   Wed Sep 7 12:31:44 2022 +0530
+
+    Hello File modified
+
+[33mcommit 05e5116990a75d83d2750b3e78c04d7dd2b97048[m
+Author: MIHRAS <sparrowtech321@gmail.com>
+Date:   Wed Sep 7 12:26:39 2022 +0530
+
+    hey file modified
+
+[33mcommit 44a53ec3f3a298ff44deb53b5960f6f279cf5327[m
+Author: MIHRAS <sparrowtech321@gmail.com>
+Date:   Wed Sep 7 12:00:47 2022 +0530
+
+    Hey File Edited
+
+[33mcommit 23de5e2a51a0c0b542c57197b4239f825676c5a0[m
+Author: MIHRAS <sparrowtech321@gmail.com>
+Date:   Wed Sep 7 11:47:07 2022 +0530
+
+    Second file added
+
+[33mcommit ad2415cbec914a4166ca438a3816f0f242749641[m
+Author: MIHRAS <sparrowtech321@gmail.com>
+Date:   Wed Sep 7 11:22:59 2022 +0530
+
+    added some messages
+
+[33mcommit 50f9d45ffc577908f3459e959739d207bbf85972[m
+Author: MIHRAS <sparrowtech321@gmail.com>
+Date:   Wed Sep 7 11:12:33 2022 +0530
+
+    My First Commit
